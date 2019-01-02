@@ -1,0 +1,6 @@
+venv/
+*.cfg
+*.crt
+*.key
+*.html
+.idea/

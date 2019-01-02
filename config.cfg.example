@@ -1,0 +1,7 @@
+[SERVER]
+PORT=1337
+ADDRESS=0.0.0.0
+
+[CERTIFICATE]
+CRT=certificate.crt
+KEY=key.key
