@@ -1,4 +1,4 @@
-#Printer Socket Server
+# Printer Socket Server
 
 Utilizzare Dymo Label Writer 450 attraverso un server socket
 
